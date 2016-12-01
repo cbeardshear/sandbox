@@ -1,1 +1,0 @@
-INDEX VERSION 1.129+/home/cbear/sandbox/workspaces/dev1/.metadata/.plugins/org.eclipse.jdt.core
